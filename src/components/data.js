@@ -111,14 +111,14 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "Kriatereda@gmail.com", link: "mailto:customer@nike.com" },
+            { name: "+212719130653", link: "tel:+212719130653" },
         ],
     },
 ];
 
 export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
-    { src: instagram, alt: "instagram logo" },
+    { src: facebook, alt: "facebook logo", link: "" },
+    { src: twitter, alt: "twitter logo", link: ""  },
+    { src: instagram, alt: "instagram logo", link: ""  },
 ];
